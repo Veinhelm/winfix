@@ -22,3 +22,9 @@ ProcedureDLL.l CompatData(type.l, val.l)
 	EndIf
 	ProcedureReturn 0
 EndProcedure
+
+; IDE Options = PureBasic 5.70 LTS (Windows - x86)
+; ExecutableFormat = Shared dll
+; Folding = -
+; Executable = bin\winfix.dll
+; DisableDebugger
